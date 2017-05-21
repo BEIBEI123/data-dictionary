@@ -15,10 +15,6 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-
-https://github.com/zeroclipboard/zeroclipboard
-http://zeroclipboard.org/#demo
-
-https://clipboardjs.com/
+也可以直接运行，无需修改
+到dist/data/initdata.php中修改数据库链接信息
+php环境下运行dist/index.html 点击右侧生成数据，刷新即可
