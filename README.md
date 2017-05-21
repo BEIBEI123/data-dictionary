@@ -1,4 +1,4 @@
-# data-dictionary-vue
+# 一款mysql数据字典生成工具，html阅读查看，界面美观大方  data-dictionary-vue
 
 > A Vue.js project
 
