@@ -15,6 +15,6 @@ npm run dev
 npm run build
 ```
 
-也可以直接运行，无需修改
-到dist/data/initdata.php中修改数据库链接信息
-php环境下运行dist/index.html 点击右侧生成数据，刷新即可
+##也可以直接运行，无需修改更多内容
+1、到dist/data/initdata.php中修改数据库链接信息
+2、php环境下运行dist/index.html 点击右侧生成数据，刷新即可
